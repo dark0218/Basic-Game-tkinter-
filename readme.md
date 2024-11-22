@@ -75,3 +75,8 @@ Provide an option to choose who plays first
 Include an AI opponent for the single-player mode.
 Have fun playing Tic Tac Toe! ????
 
+sample images  -
+
+![Screenshot 2024-11-22 233311](https://github.com/user-attachments/assets/784324f7-806c-43a2-af7a-95778a9c3909)
+![Screenshot 2024-11-22 232956](https://github.com/user-attachments/assets/4e0c5f43-d2cf-4ed8-ab46-25b360dc1579)
+
